@@ -1,6 +1,23 @@
-.day {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
+.wrapper {
     border: 1px solid black;
+    width:800px;
+}
+table {
+    width:100%;
+}
+input, textarea {
+    width:100px;
+}
+td {
+    text-align: center;
+}
+h2 {
+    font-weight: 400;
+}
+h2 .active {
+    font-weight: 800;
+}
+textarea {
+    height: 320px;
+    width: 240;
 }
