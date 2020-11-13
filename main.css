@@ -21,3 +21,10 @@ textarea {
     height: 320px;
     width: 240;
 }
+.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    width: 230px;
+}
